@@ -1,0 +1,72 @@
+*{
+margin: 0%;
+}
+#menu-principal{
+    background-color: #303030;
+    padding: 100px;
+    color: white;
+    
+   
+}
+#titulo-principal{
+    font-size: 45px;
+}
+
+#menu-informacional{
+    display: grid;
+    grid-auto-flow: column;
+     font-family: "Inter", sans-serif;
+    text-align: center;
+    background-color: #F9F9F9;
+    font-weight: 300px;
+    font-size: 18px;
+    padding: 60px;
+}
+#proposta{
+    display: grid;
+    grid-auto-flow: column;
+    padding: 40px;
+   
+}
+#texto1{
+   text-align: center;
+    margin-top: 30%;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+   
+   
+}
+img{
+    width: 510px;
+    height: 605px;
+    border-radius: 20px;
+    margin-top: 16px;
+    
+   
+}
+#login{
+    text-align: center;
+    padding: 100px;
+    background-color: #303030;
+    color: aliceblue;
+
+}
+input{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+button{
+    margin-top: 20px;
+    width: 159px;
+    border-radius: 16px;
+    padding: 20px;
+    background-color: #C07212;
+    color: antiquewhite;
+}
+
+
+
+
+
+
